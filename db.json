@@ -1,0 +1,24 @@
+{
+  "notatki":[
+    {
+      "tytul": "notka1",
+      "tresc": "ile kilowatogodzin ma bateria",
+      "data": "02.10.2026"
+    },
+    {
+      "tytul": "sukces",
+      "tresc": "znalazłem 2 złote w parku",
+      "data": "07.03.2006"
+    },
+    {
+      "tytul": "woda ładna",
+      "tresc": "poszłem do parku na zachód słońca, bylo spoks",
+      "data": "28.08.2026"
+    },
+    {
+      "tytul": "szukam żony",
+      "tresc": "kolega zgubił biedna znikneła podczas zakupów, pls pomocy kolega smutny",
+      "data": "02.04.2016"
+    }
+  ]
+}
