@@ -1,5 +1,4 @@
-{
-  "notatki":[
+[
     {
       "tytul": "notka1",
       "tresc": "ile kilowatogodzin ma bateria",
@@ -20,5 +19,4 @@
       "tresc": "kolega zgubił biedna znikneła podczas zakupów, pls pomocy kolega smutny",
       "data": "02.04.2016"
     }
-  ]
-}
+]
